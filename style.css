@@ -28,7 +28,7 @@ body {
   width: 100%;
   color: white;
   text-align: left;
-  background-image: url("/img/stock space bkgrnd.jpg");
+  background-image: url("img/stock space bkgrnd.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
